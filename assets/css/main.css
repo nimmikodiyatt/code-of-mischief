@@ -699,17 +699,15 @@ section,
     height: 32%;
   }
 .hero-margin{
-  margin-top: -12rem !important;
+  margin-top: -15rem !important;
 }
 .hero-head{
-  font-size: 20px !important;
+  font-size: 30px !important;
 }
 .hero-subhead{
-  font-size: 13px !important;
+  font-size: 15px !important;
 }
 .hero .social-links a {
-  width: 30px !important;
-  height: 30px !important;
   margin-right: 10px !important;
 }
 .hero .social-links {
@@ -725,17 +723,15 @@ section,
     height: 31%;
   }
   .hero-margin{
-    margin-top: -12rem !important;
+    margin-top: -15rem !important;
   }
   .hero-head{
-    font-size: 20px !important;
+    font-size: 30px !important;
   }
   .hero-subhead{
-    font-size: 13px !important;
+    font-size: 15px !important;
   }
   .hero .social-links a {
-    width: 30px !important;
-    height: 30px !important;
     margin-right: 10px !important;
   }
   .hero .social-links {
@@ -759,8 +755,6 @@ section,
     font-size: 25px !important;
   }
   .hero .social-links a {
-    width: 40px !important;
-    height: 40px !important;
     margin-right: 10px !important;
   }
   .hero .social-links {
@@ -784,8 +778,6 @@ section,
     font-size: 13px !important;
   }
   .hero .social-links a {
-    width: 30px !important;
-    height: 30px !important;
     margin-right: 10px !important;
   }
   .hero .social-links {
@@ -809,8 +801,6 @@ section,
     font-size: 13px !important;
   }
   .hero .social-links a {
-    width: 30px !important;
-    height: 30px !important;
     margin-right: 10px !important;
   }
   .hero .social-links {
@@ -834,8 +824,6 @@ section,
     font-size: 25px !important;
   }
   .hero .social-links a {
-    width: 40px !important;
-    height: 40px !important;
     margin-right: 10px !important;
   }
   .hero .social-links {
