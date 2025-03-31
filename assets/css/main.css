@@ -723,25 +723,125 @@ section,
   .hero img {
     height: 31%;
   }
+  .hero-margin{
+    margin-top: -12rem !important;
+  }
+  .hero-head{
+    font-size: 20px !important;
+  }
+  .hero-subhead{
+    font-size: 13px !important;
+  }
+  .hero .social-links a {
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 10px !important;
+  }
+  .hero .social-links {
+    margin-top: 10px !important;
+  }
+  .footer h3 {
+    font-size: 25px;
+  }
 }
 @media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
   .hero img {
     height: 42%;
+  }
+  .hero-margin{
+    margin-top: -20rem !important;
+  }
+  .hero-head{
+    font-size: 50px !important;
+  }
+  .hero-subhead{
+    font-size: 25px !important;
+  }
+  .hero .social-links a {
+    width: 40px !important;
+    height: 40px !important;
+    margin-right: 10px !important;
+  }
+  .hero .social-links {
+    margin-top: 10px !important;
+  }
+  .footer h3 {
+    font-size: 50px;
   }
 }
 @media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
   .hero img {
     height: 62%;
   }
+  .hero-margin{
+    margin-top: -12rem !important;
+  }
+  .hero-head{
+    font-size: 20px !important;
+  }
+  .hero-subhead{
+    font-size: 13px !important;
+  }
+  .hero .social-links a {
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 10px !important;
+  }
+  .hero .social-links {
+    margin-top: 10px !important;
+  }
+  .footer h3 {
+    font-size: 25px;
+  }
 }
 @media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ 
   .hero img {
     height: 66%;
   }
+  .hero-margin{
+    margin-top: -12rem !important;
+  }
+  .hero-head{
+    font-size: 20px !important;
+  }
+  .hero-subhead{
+    font-size: 13px !important;
+  }
+  .hero .social-links a {
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 10px !important;
+  }
+  .hero .social-links {
+    margin-top: 10px !important;
+  }
+  .footer h3 {
+    font-size: 25px;
+  }
 }
 @media (min-width:1281px) { /* hi-res laptops and desktops */ 
   .hero img {
     height: 100%;
+  }
+  .hero-margin{
+    margin-top: -9rem !important;
+  }
+  .hero-head{
+    font-size: 50px !important;
+  }
+  .hero-subhead{
+    font-size: 25px !important;
+  }
+  .hero .social-links a {
+    width: 40px !important;
+    height: 40px !important;
+    margin-right: 10px !important;
+  }
+  .hero .social-links {
+    margin-top: 10px !important;
+  }
+  .footer h3 {
+    font-size: 50px;
   }
 }
 
