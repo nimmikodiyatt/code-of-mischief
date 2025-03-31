@@ -485,7 +485,7 @@ h6 {
 }
 
 .footer .credits {
-  font-size: 13px;
+  font-size: 8px;
   padding-top: 5px;
 }
 
@@ -695,8 +695,29 @@ section,
 
 @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
   .hero img {
-    height: 20%;
+    height: 32%;
   }
+.hero-margin{
+  margin-top: -12rem !important;
+}
+.hero-head{
+  font-size: 20px !important;
+}
+.hero-subhead{
+  font-size: 13px !important;
+}
+.hero .social-links a {
+  width: 30px !important;
+  height: 30px !important;
+  margin-right: 10px !important;
+}
+.hero .social-links {
+  margin-top: 10px !important;
+}
+.footer h3 {
+  font-size: 25px;
+}
+
 }
 @media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
   .hero img {
