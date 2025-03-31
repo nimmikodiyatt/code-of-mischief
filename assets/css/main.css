@@ -670,6 +670,11 @@ section,
   font-family: var(--heading-font);
 }
 
+.green-divider{
+  border-left: 2px solid var(--accent-color);
+  margin: 1rem;
+}
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -832,6 +837,10 @@ section,
   .footer h3 {
     font-size: 50px;
   }
+}
+
+.width-90{
+  max-width: 90%;
 }
 
 .hero .container {
