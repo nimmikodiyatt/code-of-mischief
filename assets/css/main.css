@@ -693,6 +693,7 @@ section,
   z-index: 1;
 }
 
+
 @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
   .hero img {
     height: 32%;
